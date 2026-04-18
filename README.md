@@ -1,6 +1,6 @@
 # Hi there! I'm Naga Chaitanya Reddy Tumu 👋
 
-I am an **AI Engineer** based in Germany, specializing in Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), and Test Automation[cite: 4, 5]. [cite_start]I am passionate about bridging the gap between advanced Machine Learning models and practical system validation, particularly in the automotive industry.
+I am an **AI Engineer** based in Germany, specializing in Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), and Test Automation. I am passionate about bridging the gap between advanced Machine Learning models and practical system validation, particularly in the automotive industry.
 
 ### 🚀 What I Do
 * **AI-Driven Automation:** I recently designed an end-to-end RAG pipeline utilizing hybrid retrieval (BM25 + Vector Search) to automate test case selection and generation, reducing manual validation workloads by 60%.
