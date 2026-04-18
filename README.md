@@ -16,5 +16,5 @@
 * [cite_start]**Automotive/Embedded:** Vector CANoe, dSPACE Automation Desk, I2C, CAN-FD [cite: 47, 50]
 
 ### 📫 Let's Connect
-* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/naga-chaitanya-reddy-tumu-2a59a1196/)
+* **LinkedIn:** (https://www.linkedin.com/in/naga-chaitanya-reddy-tumu-2a59a1196/)
 * **Email:** nagachaitanya9605@gmail.com
