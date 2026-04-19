@@ -1,6 +1,6 @@
 # Hi there, I'm Naga Chaitanya Reddy Tumu 👋
 
-I am an **AI Engineer** based in Germany, specializing in **NLP, RAG Architectures, and Test Automation**. I am passionate about bridging the gap between advanced Machine Learning models and practical system validation, particularly in the automotive industry.
+I am an **AI Engineer** based in Germany, specializing in **NLP, RAG Architectures, and Test Automation**. I am passionate about bridging the gap between advanced Machine Learning models and practical system validation.
 
 ### 🚀 What I Do
 * 🤖 **AI & ML:** Building end-to-end RAG pipelines and fine-tuning domain-specific LLMs (LoRA/QLoRA) to automate test case generation.
